@@ -68,10 +68,35 @@
 * 자유게시판
   ![image](https://github.com/ayj8487/DADOK/assets/78454625/56c47969-b75f-445d-a579-93853f42fa90)
   ![image](https://github.com/ayj8487/DADOK/assets/78454625/7f97feaa-bcf1-4d4b-b2ae-556032af8f72)
+  ![image](https://github.com/ayj8487/DADOK/assets/78454625/b6263d73-68da-4bb1-9c61-57b90d8b6697)
   ![image](https://github.com/ayj8487/DADOK/assets/78454625/bb1502dc-3efe-4f1c-b8c5-b24cb7ea5632)
   ![image](https://github.com/ayj8487/DADOK/assets/78454625/d7120cd6-f8bf-4d7a-96dc-8077f84ebace)
+* 1:1 문의
+  ![image](https://github.com/ayj8487/DADOK/assets/78454625/36719e3a-4d60-4173-8e0e-fe657b8a9b12)
 * 마이페이지
   ![image](https://github.com/ayj8487/DADOK/assets/78454625/085d3957-86ed-434a-aaea-209bc72353b9)
+* 주문현황
+  ![image](https://github.com/ayj8487/DADOK/assets/78454625/72509bbf-eae5-417d-a83d-12ab94eae666)
+* 내정보
+  ![image](https://github.com/ayj8487/DADOK/assets/78454625/4a7f16bd-2010-447b-9ddc-b0a71f8241cb)
+  ![image](https://github.com/ayj8487/DADOK/assets/78454625/97eebccf-4f8b-4c73-943e-be57717799ec)
+* 내게시글
+  ![image](https://github.com/ayj8487/DADOK/assets/78454625/b4d084b8-99fb-42ac-9683-af1f748c1189)
+* 내댓글
+  ![image](https://github.com/ayj8487/DADOK/assets/78454625/d3ce080b-73b6-4c2d-9f2a-540af57481ed)
+
+* 관리자 메인
+  ![image](https://github.com/ayj8487/DADOK/assets/78454625/7d4ff66e-c516-4c09-a3bf-9be26dbdb8c9)
+
+* 회원관리
+  ![image](https://github.com/ayj8487/DADOK/assets/78454625/7e2f8445-d8aa-4faa-a0de-fad09d0f1abb)
+
+* 회원상세
+  ![image](https://github.com/ayj8487/DADOK/assets/78454625/8945d2fe-4c7d-4567-9617-23f3e8d50aa3)
+  ![image](https://github.com/ayj8487/DADOK/assets/78454625/dee7202f-df2c-4292-86ff-6db49b1ad9b3)
+
+* 신고관리
+  ![image](https://github.com/ayj8487/DADOK/assets/78454625/db1a6506-f647-41c7-885d-a765b25c8e33)
 
        
 ## ⏰ 개발 기간
