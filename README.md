@@ -57,18 +57,21 @@
 
   - 로그인시 
   ![image](https://github.com/ayj8487/DADOK/assets/78454625/537aff49-83dc-4a0a-b341-5fca8d50e359)
-
-  - 회원가입
+* 회원가입
   ![image](https://github.com/ayj8487/DADOK/assets/78454625/b664be6d-3748-4ebb-a929-9c3b6f8862e0)
   ![image](https://github.com/ayj8487/DADOK/assets/78454625/4e08570b-55c2-42ba-8914-0a24fe23d773)
-
-  - ID 찾기
+* 회원정보 찾기
   ![image](https://github.com/ayj8487/DADOK/assets/78454625/6c4d5af8-7803-4fbc-a4ee-f3edfaf68caa)
   ![image](https://github.com/ayj8487/DADOK/assets/78454625/26f72cdd-909f-421b-bf55-9bd2d6561758)
   ![image](https://github.com/ayj8487/DADOK/assets/78454625/0c98c1a8-c007-4a3b-acfc-939fb0ac2e26)
   ![image](https://github.com/ayj8487/DADOK/assets/78454625/fdf7c79a-64c5-4ee3-9969-1b5baebd1dc5)
-
-  
+* 자유게시판
+  ![image](https://github.com/ayj8487/DADOK/assets/78454625/56c47969-b75f-445d-a579-93853f42fa90)
+  ![image](https://github.com/ayj8487/DADOK/assets/78454625/7f97feaa-bcf1-4d4b-b2ae-556032af8f72)
+  ![image](https://github.com/ayj8487/DADOK/assets/78454625/bb1502dc-3efe-4f1c-b8c5-b24cb7ea5632)
+  ![image](https://github.com/ayj8487/DADOK/assets/78454625/d7120cd6-f8bf-4d7a-96dc-8077f84ebace)
+* 마이페이지
+  ![image](https://github.com/ayj8487/DADOK/assets/78454625/085d3957-86ed-434a-aaea-209bc72353b9)
 
        
 ## ⏰ 개발 기간
