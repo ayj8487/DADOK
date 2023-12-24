@@ -53,9 +53,11 @@
 ## 📰 UI
 * 메인 화면
   - 비 로그인
-    ![image](https://github.com/ayj8487/DADOK/assets/78454625/aa53b01d-5ea7-4cb1-95f3-1955bd5875c4)
+  ![image](https://github.com/ayj8487/DADOK/assets/78454625/d97195d0-840d-464a-8f6c-05c9b13063dd)
+
   - 로그인시 
-    ![image](https://github.com/ayj8487/DADOK/assets/78454625/5f653170-1d7a-4331-8081-1612988f0360)
+  ![image](https://github.com/ayj8487/DADOK/assets/78454625/537aff49-83dc-4a0a-b341-5fca8d50e359)
+
 
 
   
