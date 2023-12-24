@@ -58,7 +58,19 @@
   - 로그인시 
   ![image](https://github.com/ayj8487/DADOK/assets/78454625/537aff49-83dc-4a0a-b341-5fca8d50e359)
 
+  - 회원가입
+  ![image](https://github.com/ayj8487/DADOK/assets/78454625/b664be6d-3748-4ebb-a929-9c3b6f8862e0)
+  <br>
+  ![image](https://github.com/ayj8487/DADOK/assets/78454625/4e08570b-55c2-42ba-8914-0a24fe23d773)
 
+  - ID 찾기
+  ![image](https://github.com/ayj8487/DADOK/assets/78454625/6c4d5af8-7803-4fbc-a4ee-f3edfaf68caa)
+  <br>
+  ![image](https://github.com/ayj8487/DADOK/assets/78454625/26f72cdd-909f-421b-bf55-9bd2d6561758)
+  <br>
+  ![image](https://github.com/ayj8487/DADOK/assets/78454625/0c98c1a8-c007-4a3b-acfc-939fb0ac2e26)
+  <br>
+  ![image](https://github.com/ayj8487/DADOK/assets/78454625/fdf7c79a-64c5-4ee3-9969-1b5baebd1dc5)
 
   
 
